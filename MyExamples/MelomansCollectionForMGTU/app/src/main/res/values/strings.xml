@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MelomansCollection</string>
+    <string name="nav_first_item">Collections</string>
+    <string name="nav_second_item">Favourites</string>
+    <string name="menu_main_activity_first">Generate new base</string>
+    <string name="rb_auhors">Authors</string>
+    <string name="rb_albums">Albums</string>
+    <string name="no_favourites">You don\'t add favourite songs yet</string>
+    <string name="song_id">Id:</string>
+    <string name="song_name">Name of song:</string>
+    <string name="song_duration">Duration:</string>
+    <string name="song_favourite_flag">Favourite flag:</string>
+    <string name="favourite_yes">Song added to favourite list</string>
+    <string name="favourite_no">Song deleted from favourite list</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_main_fragment">Hello from main fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
