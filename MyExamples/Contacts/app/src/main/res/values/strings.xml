@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Contacts</string>
-    <string name="action_search">Search</string>
-    <string name="action_search_hint">Type name or number…</string>
-</resources>
